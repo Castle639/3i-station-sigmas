@@ -1,0 +1,61 @@
+# Measured position sigmas for stations that observed 3I/ATLAS, in the layout of Find_Orb's sigma.txt.
+# Each line applies to observations from 2025-05-01 to 2026-05-01 only (the dates measured).
+# Find_Orb reads sigma.txt from the top and keeps going until it has all three sigmas: put these lines at the top, above any line for the same station (its own file has one for F51) and above its catch-all lines.
+#Obs P  <--start-> <--end -->           Pos   Mag  Time
+#COD C  yyyy mm dd yyyy mm dd mag1 mag2 sig   sig  sig    Comment
+ C40    2025 05 01 2026 05 01           0.15              measured (NEO route): RMS 0.15/0.15", N=4114, 24 numbered asteroids, mag 10.5-17.7
+ C23    2025 05 01 2026 05 01           0.46              measured (field route): RMS 0.46/0.36", N=140, 42 numbered asteroids, mag 16.1-19.0
+ W68    2025 05 01 2026 05 01           0.20              measured (field route): RMS 0.20/0.19", N=6056, 145 numbered asteroids, mag 15.2-18.6
+ T05    2025 05 01 2026 05 01           0.22              measured (field route): RMS 0.22/0.21", N=5824, 149 numbered asteroids, mag 15.8-19.0
+ W84    2025 05 01 2026 05 01           0.09              measured (field route): RMS 0.09/0.08", N=498, 36 numbered asteroids, mag 17.0-19.6
+ R17    2025 05 01 2026 05 01           0.14              measured (field route): RMS 0.14/0.14", N=8167, 150 numbered asteroids, mag 15.9-19.1
+ Q21    2025 05 01 2026 05 01           0.82              measured (field route): RMS 0.81/0.82", N=59, 23 numbered asteroids, mag 12.6-18.2
+ 160    2025 05 01 2026 05 01           0.39              measured (field route): RMS 0.37/0.39", N=99, 40 numbered asteroids, mag 13.3-18.6
+ Q62    2025 05 01 2026 05 01           0.18              measured (field route): RMS 0.18/0.17", N=56, 21 numbered asteroids, mag 16.5-19.2
+ I41    2025 05 01 2026 05 01           0.09              measured (field route): RMS 0.09/0.07", N=258, 62 numbered asteroids, mag 15.5-19.2
+ M22    2025 05 01 2026 05 01           0.19              measured (field route): RMS 0.19/0.19", N=6521, 149 numbered asteroids, mag 15.6-18.7
+ U76    2025 05 01 2026 05 01           0.47              measured (field route): RMS 0.42/0.47", N=34, 12 numbered asteroids, mag 17.4-19.6
+ L92    2025 05 01 2026 05 01           1.00              measured (NEO route): RMS 1.00/0.63", N=46, 7 numbered asteroids, mag 10.7-17.2
+ U94    2025 05 01 2026 05 01           0.24              measured (field route): RMS 0.24/0.22", N=49, 17 numbered asteroids, mag 12.9-19.7
+ 703    2025 05 01 2026 05 01           0.38              measured (field route): RMS 0.35/0.38", N=1031, 111 numbered asteroids, mag 13.1-19.3
+ B67    2025 05 01 2026 05 01           0.37              measured (NEO route): RMS 0.37/0.34", N=30, 9 numbered asteroids, mag 15.6-17.5
+ X25    2025 05 01 2026 05 01           0.38              measured (NEO route): RMS 0.38/0.37", N=93, 8 numbered asteroids, mag 15.4-18.0
+ T08    2025 05 01 2026 05 01           0.20              measured (field route): RMS 0.20/0.19", N=5287, 150 numbered asteroids, mag 15.8-18.8
+ G02    2025 05 01 2026 05 01           0.52              measured (field route): RMS 0.31/0.52", N=48, 16 numbered asteroids, mag 16.5-19.0
+ R92    2025 05 01 2026 05 01           0.36              measured (field route): RMS 0.30/0.36", N=30, 9 numbered asteroids, mag 13.4-18.4
+ X76    2025 05 01 2026 05 01           0.50              measured (NEO route): RMS 0.50/0.27", N=144, 22 numbered asteroids, mag 12.2-17.1
+ 900    2025 05 01 2026 05 01           0.26              measured (field route): RMS 0.26/0.26", N=92, 48 numbered asteroids, mag 16.6-19.3
+ J51    2025 05 01 2026 05 01           0.62              measured (field route): RMS 0.43/0.62", N=42, 14 numbered asteroids, mag 16.3-18.0
+ L76    2025 05 01 2026 05 01           0.14              measured (NEO route): RMS 0.14/0.14", N=1040, 31 numbered asteroids, mag 11.7-17.8
+ L04    2025 05 01 2026 05 01           0.20              measured (NEO route): RMS 0.20/0.20", N=64, 17 numbered asteroids, mag 12.6-18.0
+ G17    2025 05 01 2026 05 01           0.19              measured (NEO route): RMS 0.14/0.19", N=51, 11 numbered asteroids, mag 11.1-17.6
+ K83    2025 05 01 2026 05 01           0.23              measured (NEO route): RMS 0.23/0.23", N=34, 9 numbered asteroids, mag 11.7-17.2
+ L65    2025 05 01 2026 05 01           0.12              measured (NEO route): RMS 0.12/0.12", N=417, 26 numbered asteroids, mag 11.4-17.4
+ O40    2025 05 01 2026 05 01           0.55              measured (field route): RMS 0.55/0.38", N=33, 8 numbered asteroids, mag 17.6-20.0
+ K87    2025 05 01 2026 05 01           0.22              measured (NEO route): RMS 0.14/0.22", N=41, 13 numbered asteroids, mag 11.2-18.1
+ Q73    2025 05 01 2026 05 01           0.24              measured (NEO route): RMS 0.23/0.24", N=97, 13 numbered asteroids, mag 15.5-18.5
+ R51    2025 05 01 2026 05 01           0.58              measured (NEO route): RMS 0.58/0.51", N=41, 6 numbered asteroids, mag 16.2-18.1
+ X33    2025 05 01 2026 05 01           0.36              measured (NEO route): RMS 0.36/0.34", N=150, 11 numbered asteroids, mag 12.7-16.4
+ G96    2025 05 01 2026 05 01           0.08              measured (field route): RMS 0.08/0.08", N=2852, 149 numbered asteroids, mag 15.9-20.0
+ M18    2025 05 01 2026 05 01           0.14              measured (field route): RMS 0.14/0.14", N=54, 22 numbered asteroids, mag 15.2-19.0
+ 834    2025 05 01 2026 05 01           0.78              measured (NEO route): RMS 0.68/0.78", N=43, 13 numbered asteroids, mag 13.7-15.6
+ D04    2025 05 01 2026 05 01           0.29              measured (NEO route): RMS 0.27/0.29", N=1612, 17 numbered asteroids, mag 10.2-17.1
+ H23    2025 05 01 2026 05 01           0.38              measured (field route): RMS 0.38/0.32", N=53, 18 numbered asteroids, mag 15.9-18.2
+ M26    2025 05 01 2026 05 01           0.21              measured (NEO route): RMS 0.17/0.21", N=68, 17 numbered asteroids, mag 14.8-17.6
+ M31    2025 05 01 2026 05 01           0.31              measured (field route): RMS 0.31/0.25", N=47, 8 numbered asteroids, mag 15.2-19.4
+ Z80    2025 05 01 2026 05 01           0.26              measured (NEO route): RMS 0.26/0.18", N=34, 10 numbered asteroids, mag 13.9-17.7
+ 246    2025 05 01 2026 05 01           0.30              measured (field route): RMS 0.23/0.30", N=114, 8 numbered asteroids, mag 17.1-18.8
+ E41    2025 05 01 2026 05 01           0.61              measured (NEO route): RMS 0.60/0.61", N=41, 6 numbered asteroids, mag 16.9-18.6
+ X05    2025 05 01 2026 05 01           0.02              measured (field route): RMS 0.02/0.01", N=1153, 56 numbered asteroids, mag 16.0-20.2
+ J37    2025 05 01 2026 05 01           0.35              measured (NEO route): RMS 0.33/0.35", N=32, 7 numbered asteroids, mag 11.0-16.0
+ G34    2025 05 01 2026 05 01           0.16              measured (NEO route): RMS 0.16/0.12", N=109, 18 numbered asteroids, mag 12.6-17.1
+ K35    2025 05 01 2026 05 01           0.21              measured (NEO route): RMS 0.17/0.21", N=80, 9 numbered asteroids, mag 15.0-18.0
+ O18    2025 05 01 2026 05 01           0.09              measured (field route): RMS 0.09/0.08", N=1697, 60 numbered asteroids, mag 17.1-20.7
+ R60    2025 05 01 2026 05 01           0.40              measured (NEO route): RMS 0.34/0.40", N=51, 6 numbered asteroids, mag 16.8-17.9
+ M73    2025 05 01 2026 05 01           0.17              measured (NEO route): RMS 0.17/0.13", N=297, 25 numbered asteroids, mag 14.6-18.2
+ V00    2025 05 01 2026 05 01           0.07              measured (field route): RMS 0.07/0.06", N=378, 59 numbered asteroids, mag 16.9-20.6
+ F51    2025 05 01 2026 05 01           0.04              measured (field route): RMS 0.04/0.03", N=1477, 149 numbered asteroids, mag 16.5-19.6
+ K19    2025 05 01 2026 05 01           0.26              measured (field route): RMS 0.26/0.26", N=211, 60 numbered asteroids, mag 16.1-19.1
+ R61    2025 05 01 2026 05 01           0.20              measured (NEO route): RMS 0.17/0.20", N=60, 12 numbered asteroids, mag 12.4-17.8
+ W94    2025 05 01 2026 05 01           0.17              measured (field route): RMS 0.17/0.11", N=554, 59 numbered asteroids, mag 15.2-18.5
+ X24    2025 05 01 2026 05 01           0.32              measured (NEO route): RMS 0.23/0.32", N=38, 6 numbered asteroids, mag 16.2-18.0

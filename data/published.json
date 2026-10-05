@@ -1,0 +1,279 @@
+{
+ "what": "The published per-station position sigmas (arcsec) for 3I's stations whose dates reach into 2025-05-01..2026-05-01, as read: Vereš et al. 2017 (arXiv:1703.03479v2, Tables 2-4; source_line is the line of its text layer) and Find_Orb's sigma.txt (source_line is the file's line). Their values, not ours.",
+ "sources": {
+  "Vereš et al. 2017": "arXiv:1703.03479v2",
+  "Find_Orb sigma.txt": "https://raw.githubusercontent.com/Bill-Gray/find_orb/master/sigma.txt, read 2026-10-03 20:38 UTC"
+ },
+ "values": [
+  {
+   "station": "703",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.8,
+   "condition": null,
+   "mags": null,
+   "from": "2014-01-01",
+   "to": null,
+   "source_line": 375
+  },
+  {
+   "station": "G96",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.5,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 390
+  },
+  {
+   "station": "F51",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.2,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 392
+  },
+  {
+   "station": "W84",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.5,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 429
+  },
+  {
+   "station": "K92",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "K93",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "Q63",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "Q64",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "V37",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "W84",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "W85",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "W86",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "W87",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "K91",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "E10",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "F65",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.4,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 439
+  },
+  {
+   "station": "T12",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.1,
+   "condition": "their Table 4: Catalog \"Gaia\"",
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 427
+  },
+  {
+   "station": "T14",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.1,
+   "condition": "their Table 4: Catalog \"Gaia\"",
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 429
+  },
+  {
+   "station": "309",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.3,
+   "condition": "their Table 4: Catalog \"UCAC-4, PPMXL\"; \"Applies only to program code assigned to M. Micheli\"",
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 431
+  },
+  {
+   "station": "309",
+   "source": "Vereš et al. 2017",
+   "sigma": 0.2,
+   "condition": "their Table 4: Catalog \"Gaia\"; \"Applies only to program code assigned to M. Micheli\"",
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 435
+  },
+  {
+   "station": "T12",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.1,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 71
+  },
+  {
+   "station": "T14",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.1,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 72
+  },
+  {
+   "station": "J95",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.2,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 74
+  },
+  {
+   "station": "F51",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.2,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 77
+  },
+  {
+   "station": "F52",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.2,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 78
+  },
+  {
+   "station": "C57",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 5.0,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 141
+  },
+  {
+   "station": "250",
+   "source": "Find_Orb sigma.txt",
+   "sigma": 0.01,
+   "condition": null,
+   "mags": null,
+   "from": null,
+   "to": null,
+   "source_line": 149
+  }
+ ]
+}
