@@ -53,7 +53,7 @@ Each value applies to observations from 2025-05-01 to 2026-05-01.
 
 ## Honest limits
 
-- **Asteroids, not a comet.** These are each station's errors on numbered asteroids, which are point sources. 3I is a comet: a centroid on its coma can carry more error. Read each value as a floor for that station's errors on 3I, not their total.
+- **Asteroids, not a comet.** These are each station's errors on numbered asteroids, which are point sources. 3I is a comet: a centroid on its coma can carry more error. Read each value as a floor for that station's errors on 3I at matching magnitudes and rates, not their total.
 - **A number belongs with its sample.** A station's value moves with its sample: of the 13 stations measured by both routes, the two values differ by more than 0.01″ at 11. Each row gives its sample's magnitudes and rate of motion, beside the station's own 3I magnitudes.
 - **Measured, not inflated.** The file carries the measured RMS. Vereš et al. "conservatively set the data weights according to the upper bound of the RMS as a function of brightness".
 - **Bias.** The table gives each station's mean residual against JPL's orbits, with its standard error clustered by night. The ATLAS units (W68, T05, R17, M22, T08) carry +0.04″ to +0.06″ in both coordinates. They carry it in the southern hemisphere (W68, M22) as in the northern (T05, T08, R17), and the shared positive offset in Dec does not grow with a weaker orbit. No cause is named.
